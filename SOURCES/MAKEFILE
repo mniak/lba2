@@ -12,7 +12,7 @@ WATCOM	= $(%WATCOM)
 !ifdef %MASM
 ASM	= $(%MASM)\bin\ml
 !else
-ASM	= f:\compil\masm611\bin\ml
+ASM	= c:\masm\bin\ml
 !endif
 PCHDIR	= f:
 

@@ -12,7 +12,7 @@ WL = $(%WATCOM)\binw\wlib
 !ifdef %MASM
 ASM= $(%MASM)\bin\ml
 !else
-ASM= f:\compil\masm611\bin\ml
+ASM= c:\masm\bin\ml
 !endif
 
 OBJETS1 =	AFFSTR.OBJ	CLIP.OBJ	FONT.OBJ	GPRINTF.OBJ	&
